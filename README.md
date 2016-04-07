@@ -1,2 +1,4 @@
 # Kunles_Website
-This is the creation of a website that is personal to me.
+Personal Website, currently a work in progress.
+
+link [ http://happy-loman.github.io/Kunles_Website/ ]
